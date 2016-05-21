@@ -11,6 +11,7 @@ h1 {
 }
 section {
     background-color: #999793;
+    color: inherit;
     position: relative;
     float: left;
     border: 1px solid black;
@@ -25,6 +26,7 @@ section {
 }
 .chicken {
     background-color: #D49899;
+    color: inherit;
 }
 .beef {
     background-color: #BF4646;
@@ -32,6 +34,7 @@ section {
 }
 .sushi {
     background-color: #E4D09B;
+    color: inherit;
 }
 .row {
     width: 100%;
